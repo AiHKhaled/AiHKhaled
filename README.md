@@ -10,10 +10,10 @@ You can reach me through my different social media accounts
   
 
 
-or through my email on: <a href="mailto:aithammouk40@gmail.com">aithammouk40@gmail.com</a> 
+or through my email at: <a href="mailto:aithammouk40@gmail.com">aithammouk40@gmail.com</a> 
   
   
-  my website : <a href="https://retrominimalist.netlify.app/">Portfolio </a>
+my website : <a href="https://retrominimalist.netlify.app/">Portfolio </a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AiHKhaled&theme=dark&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
