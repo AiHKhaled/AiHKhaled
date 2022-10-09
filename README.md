@@ -13,7 +13,6 @@ or through my email on: <a href="mailto:aithammouk40@gmail.com">aithammouk40@gma
   my website : <a href="https://retrominimalist.netlify.app/">Portfolio </a>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiHKhaled&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AiHKhaled)](https://git.io/streak-stats)
 
