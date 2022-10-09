@@ -2,9 +2,9 @@ Hello, My name is Khaled Ait Hammou, An Algerian based Frontend Web Developer, I
 
 I am currently learning Svelte
 
-You can reach through my different social media accounts, or through email on: 
+You can reach me through my different social media accounts, or through email on: 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AiHKhaled&show_icons=true&theme=radical)
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=AiHKhaled)](https://git.io/streak-stats)
 
